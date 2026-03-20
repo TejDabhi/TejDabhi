@@ -13,69 +13,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#mongodb)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#mysql)
 
----
-
-## 🔷 CSharp
-- HRMS System (Employee Management, Payroll, Attendance)
-- ASP.NET Core Web API
-- Authentication & Authorization System
-
----
-
-## 🔷 Go
-- REST API Development
-- Microservices Basics
-
----
-
-## 🔷 Java
-- OOP Concepts & Console Applications
-- Basic Backend Development
-
----
-
-## 🔷 JavaScript
-- Portfolio Website
-- E-commerce Frontend
-- DOM Manipulation & APIs
-
----
-
-## 🔷 Python
-- Data Analysis Projects
-- Machine Learning (scikit-learn)
-- Automation Scripts
-
----
-
-## 🔷 DotNet
-- ASP.NET Core MVC Projects
-- Web API Development
-- Backend Architecture
-
----
-
-## 🔷 Angular
-- Admin Dashboard UI
-- Form Handling & API Integration
-
----
-
-## 🔷 Flutter
-- Mobile App UI
-- Cross-platform Development
-
----
-
-## 🔷 MongoDB
-- NoSQL Database Design
-- CRUD Operations
-
----
-
-## 🔷 MySQL
-- Relational Database Design
-- Queries & Joins
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TejDabhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
