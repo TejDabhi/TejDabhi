@@ -25,11 +25,7 @@ I enjoy solving problems, building useful applications, and continuously learnin
 
 # 📊 GitHub Stats:
 
-![Tej's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejDabhi&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=TejDabhi&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejDabhi&layout=compact&theme=tokyonight)
 
 ---
 
