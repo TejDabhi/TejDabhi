@@ -3,7 +3,7 @@
 
 I am a software developer with hands-on experience in building web applications and exploring modern technologies. I have worked with the MERN stack (MongoDB, Express.js, React.js, Node.js) to develop full-stack applications and have experience integrating APIs and managing databases.
 
-I also have experience in software testing, where I focused on identifying bugs and improving application quality. Currently, I am expanding my skills in ASP.NET Core and backend development while learning DevOps concepts such as Docker and Kubernetes.
+I also have experience in software testing, where I focused on identifying bugs and improving application quality.
 
 I enjoy solving problems, building useful applications, and continuously learning new technologies to improve my development skills.
 
