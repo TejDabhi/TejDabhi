@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Passionate Software Developer | MERN Stack | ASP.NET Learner
+💻 Passionate Software Developer | MERN Stack 
 
 I am a software developer with hands-on experience in building web applications and exploring modern technologies. I have worked with the MERN stack (MongoDB, Express.js, React.js, Node.js) to develop full-stack applications and have experience integrating APIs and managing databases.
 
