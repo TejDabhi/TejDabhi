@@ -9,6 +9,22 @@ I enjoy solving problems, building useful applications, and continuously learnin
 
 ---
 
+# 🚀 Featured Projects
+
+## 🎨 Real-Time Collaborative Drawing App
+- Built with Next.js + Fabric.js + Liveblocks
+- Real-time collaboration features
+
+## 🏅 Olympic Medal Prediction App
+- Machine Learning + Streamlit
+- Interactive dashboard
+
+## 🔐 MERN Authentication System
+- JWT Authentication
+- Password Reset via Email
+
+---
+
 # 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
