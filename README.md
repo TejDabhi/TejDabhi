@@ -75,8 +75,8 @@ Building modern web applications using the MERN Stack and exploring AI, Cloud, a
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/tej-dabhi
-- Portfolio: Add your portfolio link
-- Email: Add your email
+- Portfolio: https://tejdabhi.github.io/
+- Email: tejdabhi84@gmail.com
 
 ---
 
