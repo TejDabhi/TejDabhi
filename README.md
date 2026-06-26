@@ -3,45 +3,102 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;Python+Developer;Machine+Learning+%7C+Computer+Vision;Data+Analysis+%7C+Streamlit+Apps;Building+Practical+AI+Solutions"/>
 </p>
 
-<h3 align="center">🚀 Passionate Full Stack Developer </h3>
+<h3 align="center">🤖 AI/ML Enthusiast | Python Developer</h3>
 
 <p align="center">
-Building modern web applications using the MERN Stack and exploring AI, Cloud, and Software Development.
+Building practical Machine Learning, Computer Vision, Data Analysis and Streamlit-based AI applications.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 MERN Stack Developer
-- 🌱 Currently learning Advanced Node.js & System Design
-- 🔭 Building Full Stack Projects
-- 📊 Interested in Data Analytics & AI
-- ⚡ Fun Fact: I enjoy turning ideas into real-world applications
+- 🎓 Computer Engineering Student
+- 🤖 AI/ML Enthusiast
+- 🐍 Python Developer
+- 📊 Interested in Machine Learning, Data Analysis and Computer Vision
+- 🚀 Building real-world AI/ML projects with Streamlit deployment
+- 🌱 Currently learning Advanced Machine Learning, Deep Learning and Model Deployment
+- ⚡ Fun Fact: I enjoy converting ideas into working AI-powered applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### Programming Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+### AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2563EB?style=for-the-badge)
 
-### Tools
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### App Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Database & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 AI/ML Projects
+
+### 💻 Laptop Price Predictor
+
+Built a machine learning-based laptop price prediction system that predicts laptop prices based on brand, RAM, CPU, GPU, storage, screen resolution, operating system and weight.
+
+**Tech Used:** Python, Pandas, NumPy, Scikit-learn, Regression Model, Streamlit  
+
+🔗 **Live App:** https://tej-laptop-price-predictor.streamlit.app/
+
+---
+
+### 😷 Face Mask Detection System
+
+Developed a computer vision application that detects faces and classifies whether a person is wearing a mask or not using image-based prediction workflow.
+
+**Tech Used:** Python, OpenCV, TensorFlow/Keras, NumPy, Streamlit  
+
+🔗 **Live App:** https://face-mask-detection-tej.streamlit.app/
+
+---
+
+### 🏅 Olympic Data Analysis Dashboard
+
+Created an interactive analytics dashboard to explore Olympic data using filters, visual analysis and insights on medal trends, athletes, countries, sports and historical performance.
+
+**Tech Used:** Python, Pandas, Data Visualization, Streamlit  
+
+🔗 **Live App:** https://olympic-app-tej.streamlit.app/
+
+---
+
+## 🎯 AI/ML Focus Areas
+
+- Supervised Learning
+- Regression Models
+- Data Preprocessing
+- Model Evaluation
+- Computer Vision
+- Image Classification
+- Data Analysis
+- Streamlit App Deployment
+- End-to-End ML Project Development
 
 ---
 
@@ -75,6 +132,7 @@ Building modern web applications using the MERN Stack and exploring AI, Cloud, a
 
 - LinkedIn: www.linkedin.com/in/tej-dabhi
 - Portfolio: https://tejdabhi.github.io/
+- GitHub: https://github.com/TejDabhi
 - Email: tejdabhi84@gmail.com
 
 ---
@@ -82,4 +140,3 @@ Building modern web applications using the MERN Stack and exploring AI, Cloud, a
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=TejDabhi&color=blue"/>
 </p>
-
