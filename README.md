@@ -18,9 +18,9 @@
   Building practical Machine Learning, Computer Vision, Data Analysis and Streamlit-based AI applications.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Selected%20at-Shine%20Infosoft-2563EB?style=for-the-badge" alt="Selected at Shine Infosoft"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://tejdabhi.github.io/">
