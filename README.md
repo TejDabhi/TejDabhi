@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Selected+at+Shine+Infosoft;AI%2FML+Enthusiast;Python+Developer;Machine+Learning+%7C+Computer+Vision;Data+Analysis+%7C+Streamlit+Apps;Building+Practical+AI+Solutions"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI%2FML+Enthusiast;Python+Developer;Machine+Learning+%7C+Computer+Vision;Data+Analysis+%7C+Streamlit+Apps;Building+Practical+AI+Solutions"
     alt="Typing Animation"
   />
 </p>
