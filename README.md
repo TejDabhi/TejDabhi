@@ -12,7 +12,7 @@
   />
 </p>
 
-<h3 align="center">🤖 AI/ML Intern | Python Developer</h3>
+<h3 align="center">🤖  Python AI/ML Intern </h3>
 
 <p align="center">
   Building practical Machine Learning, Computer Vision, Data Analysis and Streamlit-based AI applications.
